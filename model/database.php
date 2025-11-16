@@ -1,6 +1,6 @@
 <?php
 	//database connection details
-	$host = 'localhost';
+	$host = 'gorgeous-cupcakes-db.cdkeq60sw30t.us-east-1.rds.amazonaws.com';
 	$user = 'admin';
 	$password = 'Happy1234#';
 	$database = 'gorgeous_cupcakes';
